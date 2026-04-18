@@ -1,6 +1,6 @@
 # Mini Katalog Uygulaması
 
-Flutter ile geliştirilmiş basit bir e-ticaret katalog uygulaması.
+Flutter ile geliştirilmiş bir e-ticaret katalog uygulaması.
 
 ## Özellikler
 
